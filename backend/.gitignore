@@ -1,0 +1,6 @@
+db.sqlite3
+settings.py
+__init__.py
+asgi.py
+wsgi.py
+__pycache__
